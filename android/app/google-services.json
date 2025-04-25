@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "168625649111",
+    "project_id": "trucky-69a6e",
+    "storage_bucket": "trucky-69a6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168625649111:android:a9cfc4b1616524c1114792",
+        "android_client_info": {
+          "package_name": "com.aait.flutter.trucky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPRaCek5saeOHPIJOx7dAWtUdlOnATepQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168625649111:android:5e95f3edb0e2c1a1114792",
+        "android_client_info": {
+          "package_name": "com.aait.flutter.trucky.provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPRaCek5saeOHPIJOx7dAWtUdlOnATepQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168625649111:android:822bf5958ecb9b6a114792",
+        "android_client_info": {
+          "package_name": "com.app.flutterbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPRaCek5saeOHPIJOx7dAWtUdlOnATepQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
